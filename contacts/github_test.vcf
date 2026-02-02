@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:github test
+N:test;github;;;
+TEL;TYPE=work,voice:+971 4334
+EMAIL:test@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Tester
+END:VCARD
