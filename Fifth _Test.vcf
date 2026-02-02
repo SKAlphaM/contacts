@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Fifth  Test
+N:Test;Fifth ;;;
+TEL;TYPE=work,voice:+971 34
+EMAIL:rr@ww
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:RRREE
+END:VCARD

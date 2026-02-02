@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Test test
+N:test;Test;;;
+TEL;TYPE=work,voice:+971 3434224
+EMAIL:test@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:test
+END:VCARD

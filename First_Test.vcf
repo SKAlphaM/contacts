@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:First tEST
+N:tEST;First;;;
+TEL;TYPE=work,voice:+971 3434
+EMAIL:er@er
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:we
+END:VCARD
