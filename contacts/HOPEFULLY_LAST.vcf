@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hopefully Last
+N:Last;Hopefully;;;
+TEL;TYPE=work,voice:+971 34 343 4433
+EMAIL:last@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Test
+END:VCARD
