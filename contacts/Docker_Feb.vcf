@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Docker Feb
+N:Feb;Docker;;;
+TEL;TYPE=work,voice:+971 43434
+EMAIL:Test@Feb
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Tester
+END:VCARD
