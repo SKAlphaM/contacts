@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:NEXT TEST
+N:TEST;NEXT;;;
+TEL;TYPE=work,voice:+971 34 343 4
+EMAIL:test@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Tester
+END:VCARD
