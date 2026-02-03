@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:AlphaM Test
+N:Test;AlphaM;;;
+TEL;TYPE=work,voice:+971 23 233 2323
+EMAIL:please@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Tester
+END:VCARD
