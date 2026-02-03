@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Wissam Test
+N:Test;Wissam;;;
+TEL;TYPE=work,voice:+971 23 233 2323
+EMAIL:please@test
+ORG:Private Office of H.H. Sheikh Mohammed Bin Khalifa Bin Zayed Al Nahyan
+TITLE:Tester
+END:VCARD
