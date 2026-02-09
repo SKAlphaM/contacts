@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Render Test
+N:Test;Render;;;
+TEL;TYPE=work,voice:+971 50 333 4453
+EMAIL:render@test
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:Render
+END:VCARD
