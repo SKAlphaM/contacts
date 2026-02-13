@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Test Test
+N:Test;Test;;;
+TEL;TYPE=work,voice:+971 12 345 678
+EMAIL:test@amh.com
+ORG:Alpha M Holding L.L.C. - O.P.C.
+TITLE:It
+END:VCARD
